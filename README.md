@@ -1,2 +1,3 @@
 # delta-demo
-this is for delta practise
+this is for git and git hub practise
+
